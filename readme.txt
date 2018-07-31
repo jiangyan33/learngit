@@ -5,7 +5,7 @@ git has a mutable index called stage
 git manage change of file
 learn woringfile and stage
 create a new branch is easy
-
+do something is not finished...
 
 
 
