@@ -6,6 +6,6 @@ git manage change of file
 learn woringfile and stage
 create a new branch is easy
 do something is not finished...
-
+time 2018年8月1号，9点30分，天气晴朗
 
 
