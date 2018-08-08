@@ -1,2 +1,2 @@
-bouncing balls“的实例
+bouncing balls“的实例,移动键盘上的上下左右键，移动白色小球，碰撞到带颜色的小球时，可以让该球消失，带颜色的小球碰撞会改变颜色
 学习地址：https://developer.mozilla.org/zh-CN/docs/Learn/JavaScript/Objects/Object_building_practice

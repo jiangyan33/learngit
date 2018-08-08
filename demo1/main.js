@@ -123,7 +123,7 @@ function loop() {
   evilCircle.draw();
   evilCircle.checkBounds();
   evilCircle.collisionDetect();
-  while (balls.length < 10) {
+  while (balls.length < 25) {
     let ball = new Ball(
       random(0, width),
       random(0, height),
