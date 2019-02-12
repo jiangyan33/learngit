@@ -127,5 +127,4 @@ let obj = {
 }
 with (obj) {
     console.log(data[1]);
-
 }
