@@ -84,3 +84,6 @@ obj6 = {
     }
 }
 console.log(obj6.toString('aaa'));
+
+
+console.log(100>='30');
